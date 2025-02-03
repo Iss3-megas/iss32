@@ -1,2 +1,2 @@
-# iss32
-Simpel ticket/fine script. How to use, type /ticket id price.
+# iss3-ticket-fine
+Simpel ticket/fine script. How to use, type /ticket id price. Showcase video: 
